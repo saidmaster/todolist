@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.backend.todolist",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "BACKEND_TODOLIST",
+        "packageName": "org.backend.todolist",
+        "packageFolder": "org/backend/todolist",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Y2MxNTE2OWQ1ZWU5MDg1YWIwMTkzYjhiM2MwZDdlMmQ0NjFmMGQ1NTc1NWJmNDhkNWYzZDBhMzFlZGVlYTNiYWZiMjFhNGI2NTgwMmU5OGMxMmY1NGExMDg1MTEyM2ExY2Y3MTk3ZGI5MTA5YmM3YzBlZjA0NWZhZjA3ZTY5Nzk=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
